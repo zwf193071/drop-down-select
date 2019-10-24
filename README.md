@@ -1,4 +1,4 @@
-# 基于vue的下拉选择组件
+# 基于iview的下拉选择组件
 
 > Author : Wenfang zhu
 
