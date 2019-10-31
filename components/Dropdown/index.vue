@@ -119,6 +119,17 @@ export default {
     },
 }
 </script>
+<style>
+.ivu-tag {
+    padding-right: 4px;
+    background: #FBFDFF;
+    border: 1px solid #E2E8F0;
+    border-radius: 4px;
+}
+:root .ivu-tag .ivu-icon-ios-close {
+    font-size: 12px
+}
+</style>
 <style scoped>
 .ice-dropdown {
     position: relative;
